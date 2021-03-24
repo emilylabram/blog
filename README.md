@@ -1,6 +1,6 @@
 # About this blog
 
-Here are the thoughts of [Emily Hector Labram](./about-me.md), Product person working in government. Mostly about how to do "inclusive" product management so that digital services work for everyone.
+Here are the thoughts of [Emily Hector Labram](./about-me.md), a Product Manager working in government. Mostly about how to do "inclusive" product management so that digital services work for everyone.
 
 ## Recent posts
 
