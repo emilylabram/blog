@@ -2,7 +2,9 @@
 
 Here are the thoughts of [Emily Hector Labram](./about-me.md), a Product Manager working in government. 
 
-I write about doing Product Management inclusively so that digital services work for everyone.
+I write about doing Product Management inclusively.
+
+That means empowered, effective teams. And digital services that work for everyone.
 
 ## Recent posts
 
