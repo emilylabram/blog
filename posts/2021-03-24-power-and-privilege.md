@@ -60,7 +60,7 @@ E.g. "We need three volunteers tomorrow to host three break-out groups. You'll e
 
 When I used to plan and run workshops alone, I would make jokes to liven up the atmosphere. These often fell flat so I gave up and kept things serious. What I didn't realise was that empowering everyone is what makes playfulness possible.
 
-These days, I make space for silliness throughout the process. 
+These days, I make space for playfulness throughout the process. 
 
 For example, Ciaran recently came up with a "Doomsday" prioritisation exercise. We imagined what would happen if the whole team failed to come to work. This was a brilliant way to consider the "cost of not doing" our existing work. The playful way Ciaran facilitated the exercise brought out playfulness in the rest of the team. This made it a bonding experience, as well as productive.
 
