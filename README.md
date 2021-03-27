@@ -10,4 +10,4 @@ And digital services that work for everyone.
 
 ## Recent posts
 
-* [My tips for empowering, inclusive and effective product workshops](./posts/2021-03-24-power-and-privilege.md)
+* [My tips for empowering, inclusive and effective product workshops (3 minute read)](./posts/2021-03-24-power-and-privilege.md)
