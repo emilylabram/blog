@@ -58,7 +58,7 @@ E.g. "We need three volunteers tomorrow to host three break-out groups. You'll e
 
 ## 5. Encourage playfulness
 
-When I used to plan and run workshops alone, I would make jokes to liven up the atmosphere. These often fell flat so I gave up and kept things serious. What I didn't realise was that making workshops empowering is the key to having fun.
+When I used to plan and run workshops alone, I would make jokes to liven up the atmosphere. These often fell flat so I gave up and kept things serious. What I didn't realise was that empowering everyone is what makes playfulness possible.
 
 These days, I make space for silliness throughout the process. 
 
