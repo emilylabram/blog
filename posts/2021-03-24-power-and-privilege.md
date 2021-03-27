@@ -2,7 +2,7 @@
 
 Over the past few months I've been experimenting how I set vision, goals and roadmap with teams.
 
-My inspiration comes thanks to Sonia and Clara, who ran a fantastic course for Product Managers called "Power and Privilege" last year.
+My inspiration comes thanks to [Sonia](https://twitter.com/sonia_turcotte) and [Clara](https://twitter.com/claragt), who ran a fantastic course for Product Managers called "Power and Privilege" last year.
 
 In this post, I share the tips that have transformed my workshops from "top-down torture" to collective brilliance.
 
