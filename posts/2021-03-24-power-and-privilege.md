@@ -20,13 +20,17 @@ Planning ahead reduces stress and enables us to begin workshops confident and un
 
 ## 2. Plan with others
 
-I used to think it was the Product Manager's job to design and facilitate workshops, and that I'd be "burdening" others by involving them. It pains me to realise that this disempowered my Delivery Managers. They would have relished the chance to create workshops with me. And there may well have been others who would have wanted to help.
+I used to think it was the Product Manager's job to design and facilitate workshops. I worried I'd be "burdening" others by involving them. It pains me to realise that this disempowered my Delivery Managers. They would have relished the chance to create workshops with me. And there may well have been others who would have wanted to help.
 
-These days, I consider what I think the team needs from a workshop and then team up with at least one person to plan it. Recently, that was the brilliant Ciaran McCabe, Delivery Manager on the Verify team.
+These days, I know that involving colleagues in planning workshops allows them to shine. I team up with at least one person to plan every workshop. Recently, that was the brilliant Ciaran McCabe, Delivery Manager on the Verify team.
 
 The process instantly becomes more joyful, creative and effective.
 
-Ciaran and I have also offered opportunities to others in the team to create workshops with us. Recently, we delegated part of the workshop to our Senior Performance Analyst. He invented a "Snakes and Ladders" game to help the team break down an epic. Later, it gave me great pleasure to see him present the end results to the rest of the programme: proof that people of all disciplines can grow through doing Product Management.
+We also offer opportunities to others in the team to create exercises for us.
+
+Recently, we delegated part of the workshop to our Senior Performance Analyst. He invented a "Snakes and Ladders" game to help the team break down an epic. 
+
+Later, it gave me great pleasure to see him present the end results to the rest of the programme: proof that people of all disciplines can grow through doing Product Management.
 
 Teams love to experience workshops created by fellow team members - especially developers. So it's a win-win-win.
 
