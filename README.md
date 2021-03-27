@@ -4,7 +4,9 @@ Here are the thoughts of [Emily Hector Labram](./about-me.md), a Product Manager
 
 I write about doing Product Management inclusively.
 
-That means empowered, effective teams. And digital services that work for everyone.
+That means empowered, effective teams. 
+
+And digital services that work for everyone.
 
 ## Recent posts
 
