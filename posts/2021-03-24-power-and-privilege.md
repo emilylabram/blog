@@ -50,7 +50,7 @@ When I used to plan and run workshops alone, I would try to make jokes and liven
 
 These days, I make space for silliness in the creative process. Ciaran, for example, came up with a "Doomsday" prioritisation exercise where we imagined the whole team failed to come to work, indefinitely - in order to reveal the relative cost of "not doing" our work. 
 
-## 5. Empower the team to shape what happens next
+## 5. Delegate follow-up
 
 In the past, I would find myself alone with a stack of post-its after a workshop, thinking "what now?" and feeling completely overwhelmed.
 
