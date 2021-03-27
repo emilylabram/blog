@@ -8,7 +8,7 @@ In this post, I share the tips that have transformed my workshops from "top-down
 
 ## 1. Start planning early
 
-I used to procrastinate over planning workshops as I felt I had to do it all myself. I'd leave it and then prep slides until the very last moment.
+I used to procrastinate over planning workshops as I felt I had to do it all myself. I'd leave it until the night before and then prep slides until late.
 
 This last-minuteness created stress for my team - especially the introverts. They would have 90 minute calendar invites inserted at short notice with agendas arriving minutes before the meeting.
 
