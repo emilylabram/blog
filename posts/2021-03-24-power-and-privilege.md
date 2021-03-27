@@ -4,7 +4,7 @@ Over the past few months I've been experimenting how I set vision, goals and roa
 
 My inspiration comes thanks to [Sonia Turcotte](https://twitter.com/sonia_turcotte) and [Clara Greo](https://twitter.com/claragt), who ran a fantastic course for Product Managers called "Power and Privilege" last year.
 
-Here are six things that have made my workshops empowering, inclusive and effective.
+Here are seven things that have made my workshops empowering, inclusive and effective.
 
 ## 1. Start planning early
 
@@ -34,7 +34,7 @@ Later, it gave me great pleasure to see him present the end results to the rest 
 
 Teams love to experience workshops created by fellow team members - especially developers. So it's a win-win-win.
 
-## 2. Use playbooks
+## 3. Use playbooks
 
 Creating workshops from scratch is great fun but incredibly time-consuming. It's also riskier than picking up something tried and tested.
 
@@ -46,7 +46,7 @@ I've also found the [Atlassian playbook](https://www.atlassian.com/team-playbook
 
 And just recently, I purchased [Beyond Sticky Notes: Co-design for Real: Mindsets, methods and movements](https://www.beyondstickynotes.com/tellmemore) which I hope will be another source.
 
-## 3. Train up facilitators
+## 4. Train up facilitators
 
 Having a diverse group of facilitators livens up a workshop. It also gives team members the chance to practice their facilitation skills.
 
@@ -54,7 +54,7 @@ Be specific about the request, in advance. This will encourage team members with
 
 E.g. "We need three volunteers tomorrow to host three break-out groups. You'll explain the activity and keep time. Here's a link to the exercise. We'll talk you through it after stand-up."
 
-## 4. Encourage playfulness
+## 5. Encourage playfulness
 
 When I used to plan and run workshops alone, I would make jokes to liven up the atmosphere. These often fell flat so I gave up and kept things serious. What I didn't realise was that making workshops empowering is the key to having fun.
 
@@ -62,7 +62,7 @@ These days, I make space for silliness throughout the process.
 
 For example, Ciaran recently came up with a "Doomsday" prioritisation exercise. We imagined what would happen if the whole team failed to come to work. This was a brilliant way to consider the "cost of not doing" our existing work. The playful way Ciaran facilitated the exercise brought out playfulness in the rest of the team. This made it a bonding experience, as well as productive.
 
-## 5. Delegate follow-up
+## 6. Delegate follow-up
 
 In the past, I would find myself alone with a stack of post-its after a workshop, thinking "what now?" 
 
@@ -74,7 +74,7 @@ And if there are specific tasks I might normally do, I consider who else might w
 
 For example, after a session on the team's "hopes and dreams" for the quarter, our Technical Writer wrote up the findings into a mission statement.
 
-## 6. Be gentle with yourself
+## 7. Be gentle with yourself
 
 Sometimes, circumstances make it impossible to follow these tips. In these moments, it's OK to revert to top-down shortcuts. Yes, it's less effective and it's sad to see morale decline. But the important thing - I've learned - is to notice the degree of empowerment achieved despite the constraints. 
 
