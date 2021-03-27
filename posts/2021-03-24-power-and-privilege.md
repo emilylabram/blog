@@ -6,7 +6,7 @@ My inspiration comes thanks to Sonia and Clara, who ran a fantastic course for P
 
 In this post, I share the tips that have transformed my workshops from "top-down torture" to collective brilliance.
 
-## 1. Start planning early so you can share your plan with the team
+## 1. Start planning early
 
 I used to procrastinate over planning workshops as I felt I had to do it all myself (wrong) and got totally overwhelmed. Often, I'd end up having to facilitate it all myself because I left it too late to ask others.
 
@@ -16,7 +16,7 @@ I now realise that starting early means I can involve others and give participan
 
 These tweaks have reduced stress and enabled us to begin workshops confident and united.
 
-## 2. Co-create the workshop with colleagues from other disciplines
+## 2. Plan with others
 
 I used to think it was the Product Manager's job to design and facilitate workshops, and that I'd be "burdening" others by involving them. It pains me to realise that this disempowered my counterpart Delivery Manager, who would have relished the chance to create workshops with me. And there may well have been other colleagues with an interest in developing facilitation skills who would have wanted to help.
 
@@ -36,7 +36,7 @@ This is where playbooks come in.
 
 The one I'm most familiar with is Liberating Structures. I've also used the Atlassian playbook and customised it. And just recently, I purchased [Beyond Sticky Notes: Co-design for Real: Mindsets, methods and movements] (https://www.beyondstickynotes.com/tellmemore) which I hope will be another source.
 
-## 3. Train up others to facilitate
+## 3. Train up facilitators
 
 Having a diverse group of facilitators livens up a workshop. It reduces pressure on the planners and give everyone the chance to practice their facilitation skills.
 
