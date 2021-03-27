@@ -40,7 +40,7 @@ Creating workshops from scratch is great fun but incredibly time-consuming. It's
 
 This is where playbooks come in.
 
-The one I'm most familiar with is Liberating Structures. I've also used the Atlassian playbook and customised it. And just recently, I purchased [Beyond Sticky Notes: Co-design for Real: Mindsets, methods and movements](https://www.beyondstickynotes.com/tellmemore) which I hope will be another source.
+The one I'm most familiar with is [Liberating Structures](https://www.liberatingstructures.com/). I've also used the Atlassian playbook and customised it. And just recently, I purchased [Beyond Sticky Notes: Co-design for Real: Mindsets, methods and movements](https://www.beyondstickynotes.com/tellmemore) which I hope will be another source.
 
 ## 3. Train up facilitators
 
@@ -62,7 +62,7 @@ In the past, I would find myself alone with a stack of post-its after a workshop
 
 These days, I make sure the team decides what happens next and takes on as much as possible themselves.
 
-The Liberating Structure "What, So what, now what?" is a great exercise for this.
+The Liberating Structure ["What, So what, Now what?"](https://www.liberatingstructures.com/9-what-so-what-now-what-w/) is a great exercise for this.
 
 And if there are specific tasks I might normally do, I consider who else might want to help. 
 
