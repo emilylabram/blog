@@ -14,7 +14,7 @@ This last-minuteness created stress for my team - especially the introverts. The
 
 I now realise that starting early is fundamental to making workshops inclusive. 
 
-I create an "agenda" doc and share it immediately so that participants can challenge the plan, suggest improvements and prepare themselves.
+I create an "agenda" doc and share it immediately. This enables the team to challenge the plan, suggest improvements and prepare themselves.
 
 These tweaks have reduced stress and enabled us to begin workshops confident and united.
 
