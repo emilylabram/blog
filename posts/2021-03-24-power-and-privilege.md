@@ -50,7 +50,7 @@ E.g. "We need three volunteers tomorrow to host three break-out groups. You'll e
 
 When I used to plan and run workshops alone, I would make jokes to liven up the atmosphere. These often fell flat because it was "the Emily show". So I gave up and instead kept things serious. What a shame.
 
-These days, I make space for silliness in the creative process. Ciaran, for example, came up with a "Doomsday" prioritisation exercise where we imagined the whole team failed to come to work, indefinitely - in order to reveal the relative cost of "not doing" our work. 
+These days, I make space for silliness in the creative process. Ciaran, for example, came up with a "Doomsday" prioritisation exercise. We imagined the whole team failed to come to work, in order to reveal the relative cost of "not doing" our work. I noticed the team similarly express themselves during this exercise - which made it a bonding experience, as well as productive.
 
 ## 5. Delegate follow-up
 
