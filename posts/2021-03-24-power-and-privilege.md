@@ -16,7 +16,7 @@ I now realise that starting early is fundamental to making workshops inclusive.
 
 I create an "agenda" doc and share it immediately. This enables the team to challenge the plan, suggest improvements and prepare themselves.
 
-These tweaks have reduced stress and enabled us to begin workshops confident and united.
+Planning ahead reduces stress and enables us to begin workshops confident and united.
 
 ## 2. Plan with others
 
