@@ -8,9 +8,9 @@ Here are six things that have made my workshops empowering, inclusive and effect
 
 ## 1. Start planning early
 
-I used to procrastinate over planning workshops as I felt I had to do it all myself. I'd leave it until the night before and then prep slides until late.
+I used to procrastinate over planning workshops as I felt I had to do it all myself. I'd leave it until the night before and prep slides until late.
 
-This last-minuteness created stress for my team - especially the introverts. They would have 90 minute calendar invites inserted at short notice with agendas arriving minutes before the meeting.
+This last-minuteness created stress for my team - especially the introverts. 
 
 I now realise that starting early is fundamental to making workshops inclusive. 
 
@@ -26,7 +26,7 @@ These days, I know that involving colleagues in planning workshops allows them t
 
 The process instantly becomes more joyful, creative and effective.
 
-We also offer opportunities to others in the team to create exercises for us.
+We also offer opportunities to others in the team to plan parts of the workshop.
 
 Recently, we delegated part of the workshop to our Senior Performance Analyst. He invented a "Snakes and Ladders" game to help the team break down an epic. 
 
@@ -40,11 +40,15 @@ Creating workshops from scratch is great fun but incredibly time-consuming. It's
 
 This is where playbooks come in.
 
-The one I'm most familiar with is [Liberating Structures](https://www.liberatingstructures.com/). I've also used the Atlassian playbook and customised it. And just recently, I purchased [Beyond Sticky Notes: Co-design for Real: Mindsets, methods and movements](https://www.beyondstickynotes.com/tellmemore) which I hope will be another source.
+The one I'm most familiar with is [Liberating Structures](https://www.liberatingstructures.com/). 
+
+I've also found the [Atlassian playbook](https://www.atlassian.com/team-playbook) useful as a starting point. 
+
+And just recently, I purchased [Beyond Sticky Notes: Co-design for Real: Mindsets, methods and movements](https://www.beyondstickynotes.com/tellmemore) which I hope will be another source.
 
 ## 3. Train up facilitators
 
-Having a diverse group of facilitators livens up a workshop. It reduces pressure on the planners and give everyone the chance to practice their facilitation skills.
+Having a diverse group of facilitators livens up a workshop. It also gives team members the chance to practice their facilitation skills.
 
 Be specific about the request, in advance. This will encourage team members with less confidence to volunteer.
 
@@ -52,9 +56,11 @@ E.g. "We need three volunteers tomorrow to host three break-out groups. You'll e
 
 ## 4. Encourage playfulness
 
-When I used to plan and run workshops alone, I would make jokes to liven up the atmosphere. These often fell flat because it was "the Emily show". So I gave up and instead kept things serious. What a shame.
+When I used to plan and run workshops alone, I would make jokes to liven up the atmosphere. These often fell flat so I gave up and kept things serious. What I didn't realise was that making workshops empowering is the key to having fun.
 
-These days, I make space for silliness in the creative process. Ciaran, for example, came up with a "Doomsday" prioritisation exercise. We imagined the whole team failed to come to work, in order to reveal the relative cost of "not doing" our work. I noticed the team similarly express themselves during this exercise - which made it a bonding experience, as well as productive.
+These days, I make space for silliness throughout the process. 
+
+For example, Ciaran recently came up with a "Doomsday" prioritisation exercise. We imagined what would happen if the whole team failed to come to work. This was a brilliant way to consider the "cost of not doing" our existing work. The playful way Ciaran facilitated the exercise brought out playfulness in the rest of the team. This made it a bonding experience, as well as productive.
 
 ## 5. Delegate follow-up
 
