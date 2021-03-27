@@ -20,7 +20,9 @@ Planning ahead reduces stress and enables us to begin workshops confident and un
 
 ## 2. Plan with others
 
-I used to think it was the Product Manager's job to design and facilitate workshops. I worried I'd be "burdening" others by involving them. It pains me to realise that this disempowered my Delivery Managers. They would have relished the chance to create workshops with me. And there may well have been others who would have wanted to help.
+I used to think it was the Product Manager's job to design and facilitate workshops. I worried I'd be "burdening" others by involving them. 
+
+Unfortunately, doing it myself disempowered others on my team who would have wanted more responsibility.
 
 These days, I know that involving colleagues in planning workshops allows them to shine. I team up with at least one person to plan every workshop. Recently, that was the brilliant Ciaran McCabe, Delivery Manager on the Verify team.
 
