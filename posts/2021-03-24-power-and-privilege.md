@@ -2,7 +2,7 @@
 
 Over the past few months I've been experimenting how I set vision, goals and roadmap with teams.
 
-My inspiration comes thanks to [Sonia](https://twitter.com/sonia_turcotte) and [Clara](https://twitter.com/claragt), who ran a fantastic course for Product Managers called "Power and Privilege" last year.
+My inspiration comes thanks to [Sonia Turcotte](https://twitter.com/sonia_turcotte) and [Clara Greo](https://twitter.com/claragt), who ran a fantastic course for Product Managers called "Power and Privilege" last year.
 
 Here are six things that have made my workshops empowering, inclusive and effective.
 
@@ -76,4 +76,4 @@ So, those are my tips!
 
 When these things come together, it's delightful how teams blossom into creativity. We typically leave the session on a high, feeling like "everyone had a voice" and impressed with the results. One developer noticed we'd created "the clearest priorities" he'd seen in three years.
 
-Thanks again to Sonia, Clara and the designer [George Aye](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08) for opening my eyes and showing what's possible.
+Thanks again to [Sonia Turcotte](https://twitter.com/sonia_turcotte), [Clara Greo](https://twitter.com/claragt) and the designer [George Aye](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08) for opening my eyes and showing what's possible.
