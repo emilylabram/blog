@@ -1,6 +1,6 @@
 # My tips for empowering, inclusive and effective product workshops
 
-Over the past few months I've been experimenting how I set vision, goals and roadmap with teams.
+Over the past few months I've been experimenting with how I set vision, goals and roadmap with teams.
 
 My inspiration comes thanks to [Sonia Turcotte](https://twitter.com/sonia_turcotte) and [Clara Greo](https://twitter.com/claragt), who ran a fantastic course for Product Managers called "Power and Privilege" last year.
 
