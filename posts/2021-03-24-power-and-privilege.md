@@ -70,10 +70,10 @@ For example, after a session on the team's "hopes and dreams" for the quarter, o
 
 ## 6. Be gentle with yourself
 
-Sometimes, circumstances make it impossible to follow these tips. In these moments, it's OK to revert to top-down shortcuts. Yes, it's less effective and it's sad to see morale decline. But the important thing - I've learned - is to notice any small improvements I've still made, despite the constraints. 
+Sometimes, circumstances make it impossible to follow these tips. In these moments, it's OK to revert to top-down shortcuts. Yes, it's less effective and it's sad to see morale decline. But the important thing - I've learned - is to notice the degree of empowerment achieved despite the constraints. 
 
 So, those are my tips!
 
 When these things come together, it's delightful how teams blossom into creativity. We typically leave the session on a high, feeling like "everyone had a voice" and impressed with the results. One developer noticed we'd created "the clearest priorities" he'd seen in three years.
 
-Thanks again to Sonia, Clara and the designer [George Aye](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08) for showing me how it's done.
+Thanks again to Sonia, Clara and the designer [George Aye](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08) for opening my eyes and showing what's possible.
