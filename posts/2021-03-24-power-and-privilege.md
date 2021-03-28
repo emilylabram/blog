@@ -24,7 +24,7 @@ I used to think it was the Product Manager's job to design and facilitate worksh
 
 Unfortunately, doing it myself disempowered others on my team who would have wanted more responsibility.
 
-These days, I know that involving colleagues in planning workshops allows them to shine. I team up with at least one person to plan every workshop. Recently, that was the brilliant Ciaran McCabe, Delivery Manager on the Verify team.
+These days, I know that involving colleagues in planning workshops allows them to shine. I team up with at least one person to plan every workshop. Recently, that was my brilliant Delivery Manager on the Verify team.
 
 The process instantly becomes more joyful, creative and effective.
 
@@ -62,7 +62,7 @@ When I used to plan and run workshops alone, I would make jokes to liven up the 
 
 These days, I make space for playfulness throughout the process. 
 
-For example, Ciaran recently came up with a "Doomsday" prioritisation exercise. We imagined what would happen if the whole team failed to come to work. This was a brilliant way to consider the "cost of not doing" our existing work. The playful way Ciaran facilitated the exercise brought out playfulness in the rest of the team. This made it a bonding experience, as well as productive.
+For example, our Delivery Manager came up with a "Doomsday" prioritisation exercise. We imagined what would happen if the whole team failed to come to work. This was a brilliant way to consider the "cost of not doing" our existing work. The playful way he facilitated the exercise brought out playfulness in the rest of the team. This made it a bonding experience, as well as productive.
 
 ## 6. Delegate follow-up
 
