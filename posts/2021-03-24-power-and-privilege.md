@@ -46,7 +46,7 @@ The one I'm most familiar with is [Liberating Structures](https://www.liberating
 
 I've also found the [Atlassian playbook](https://www.atlassian.com/team-playbook) useful as a starting point. 
 
-And just recently, I purchased [Beyond Sticky Notes: Co-design for Real: Mindsets, methods and movements](https://www.beyondstickynotes.com/tellmemore) and [Design Justice by Sasha Costanza-Chock](https://mitpress.mit.edu/books/design-justice) which I hope will be another source.
+And just recently, I purchased [Beyond Sticky Notes: Co-design for Real: Mindsets, methods and movements](https://www.beyondstickynotes.com/tellmemore) and [Design Justice by Sasha Costanza-Chock](https://mitpress.mit.edu/books/design-justice) which I know will be further sources.
 
 ## 4. Train up facilitators
 
