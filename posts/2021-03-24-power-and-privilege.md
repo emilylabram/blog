@@ -8,7 +8,7 @@ Here are seven things that have made my workshops more empowering, inclusive and
 
 ## 1. Start planning early
 
-I used to procrastinate over planning workshops as I felt I had to do it all myself. I'd leave it until the night before and prep slides until late.
+I used to procrastinate over planning workshops as I felt I had to do it all myself.
 
 This last-minuteness created stress for my team - especially the introverts. 
 
