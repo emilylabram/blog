@@ -1,4 +1,4 @@
-# My tips for empowering, inclusive and effective product workshops
+# My tips for empowering, inclusive and effective product workshops (3 minute read)
 
 Over the past few months I've been experimenting with how I set vision, goals and roadmap with teams.
 
