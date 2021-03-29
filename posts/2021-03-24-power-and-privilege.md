@@ -14,17 +14,21 @@ This last-minuteness created stress for my team - especially the introverts.
 
 I now realise that starting early is fundamental to making workshops inclusive. 
 
-I create an "agenda" doc and share it immediately. This enables the team to challenge the plan, suggest improvements and prepare themselves.
+These days, I create an "agenda" doc and share it in draft. This enables the team to challenge the plan, suggest improvements and prepare themselves.
 
 Planning ahead reduces stress and enables us to begin workshops confident and united.
 
+It also enables me to involve other people.
+
 ## 2. Plan with others
 
-I used to think it was the Product Manager's job to design and facilitate workshops. I worried I'd be "burdening" others by involving them. 
+I used to worry I'd be "burdening" colleagues by involving them in product workshops.
 
-Unfortunately, doing it myself disempowered others on my team who would have wanted more responsibility.
+However, doing it all myself disempowered others on my team.
 
-These days, I know that involving colleagues in planning workshops allows them to shine. I team up with at least one person to plan every workshop. Recently, that was my brilliant Delivery Manager on the Verify team.
+I know now that planning workshops with others allows them to shine. 
+
+These days, I team up with at least one person to plan every workshop. Recently, that was my brilliant Delivery Manager on the Verify team.
 
 The process instantly becomes more joyful, creative and effective.
 
