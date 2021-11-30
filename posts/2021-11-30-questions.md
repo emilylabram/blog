@@ -8,6 +8,11 @@ Related to inclusion because this is a good way to raise issues about diversity 
 
 Asking questions in a clumsy way has caused set-backs in my career.
 
+Firstly: what makes a good public question?
+
+* Collective
+* Strategic
+
 ## 1. Do a messy first draft
 
 
