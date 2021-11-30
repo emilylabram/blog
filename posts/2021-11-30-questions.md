@@ -18,6 +18,9 @@ Describe the challenges
 
 ## 3. Assess the risk
 
+How sensitive is this issue right now?
+Has this question been asked before?
+
 ## Other tips
 
 * Be vulnerable
