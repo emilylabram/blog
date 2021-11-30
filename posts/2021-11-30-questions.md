@@ -16,13 +16,15 @@ Asking questions in a clumsy way has caused set-backs in my career.
 Find the outcome you want
 Describe the challenges
 
+## 3. Assess the risk
+
 ## Other tips
 
-Be vulnerable
-Assume the best
-Check your reasoning
-Ground yourself
-Raise your energy
+* Be vulnerable
+* Assume the best
+* Check your reasoning
+* Ground yourself
+* Raise your energy
 
 ## Good examples
 
