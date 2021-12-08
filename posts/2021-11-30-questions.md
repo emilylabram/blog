@@ -1,18 +1,22 @@
-# How to ask questions in public that energise everyone and get the results you want (3 minute read)
+# 7 tips for asking great questions in public (3 minute read)
 
 ## Introduction
 
-### Why bother asking a question in public?
+### Why bother asking questions in public?
 
-Asking questions is the quickest way for anyone in an organisation to improve their visibility - no matter how new or junior they are.
+Asking questions is the quickest way to improve your visibility in your organisation.
 
-Done well, it's rewarding. You feel the satisfaction of raising something that others care about.
+It can be extremely rewarding to raise something that others care about.
 
-It's also effective. A great question energises the whole room. 50, 100, 500 people feel a sense of togetherness and the whoosh of excitement about making things better. You'll often find a Senior Leader prompting you: what do you think? How can we make this happen? And from there, instant permission to get things done.
+It's also an effective way to make change happen.
 
-We want as many people as possible asking great questions. Especially those who feel most nervous about it.
+A great question energises the whole room. 50, 100, 500 people feel a sense of togetherness and the whoosh of excitement about making things better. 
 
-This post will help you start.
+When you ask a great question, you'll hear a Senior Leader prompting you: what do you think? How can we make this happen? Often, you'll get instant permission to get things done - and you'll build a great reputation along the way.
+
+So we want as many people as possible asking great questions. Especially those who feel most nervous about it. Your voices are the ones we most need to hear.
+
+This post will help you build your confidence and start practising.
 
 ### OK, but it's scary!
 
@@ -20,16 +24,23 @@ Yes! You're right to be scared.
 
 Asking questions in public is EXTREMELY RISKY. 
 
-When I was 22, I asked my CEO a question that was so naive and misguided that the entire room turned to stone. The CEO had to pause for several seconds to process his disbelief. Everyone in that meeting avoided me for weeks. It took months to restore my reputation and I still cringe about it TEN YEARS LATER.
+When I was 22, I asked my CEO a question that was so naive and misguided that the entire room turned to stone. 
+
+The CEO had to pause for several seconds to process his disbelief. 
+
+Everyone in that meeting avoided me for weeks. 
+
+It took months to restore my reputation and I still cringe about it TEN YEARS LATER.
 
 That wasn't the only time I've messed up. I've been too grumpy, too basic, I've blanked, I've gabbled.
 
-But for personal reasons* I kept going, asking hundreds of questions over the past ten years - and in the end, I found a formula that works for me.
+I've asked hundreds of questions over the past ten years, and I've always meant to write down the tips that work for me.
 
-## 1: start listening to your senior leaders
+I know I've had it easier because of the privileges on my side. But I hope they can still be useful.
 
+## 1: think about your organisation's strategy
 
-
+Believe in yourself. No one is too junior to engage in strategy.
 
 ## 2: think of some questions in advance
 
@@ -47,17 +58,17 @@ A good question to a CEO should be both "collective" and "strategic":
 
 "Ugh. Yet again we're hearing about big visions with no way to measure success!"
 
-## 2. Reframe
+## 5. Reframe
 
 Find the outcome you want
 Describe the challenges
 
-## 3. Assess the risk
+## 6. Choose your audience
 
 How sensitive is this issue right now?
 Has this question been asked before?
 
-## Other tips
+## 7. Other tips
 
 * Be vulnerable
 * Assume the best
